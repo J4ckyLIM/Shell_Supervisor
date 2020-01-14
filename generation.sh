@@ -1,1 +1,2 @@
-#! bin/bash
+#!/bin/bash
+./genExec $1
