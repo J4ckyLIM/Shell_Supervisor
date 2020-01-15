@@ -3,6 +3,9 @@
 #include <unistd.h>
 #include <string.h>
 
+// GEN TICK V2
+
+
 int main( int argc, char* argv[] )
 {
     char buff[256];
@@ -20,17 +23,31 @@ int main( int argc, char* argv[] )
         while(1){
             // flush standard output
             fflush(stdout);
+
             // Wait for a while according to delay
             usleep( delay*1000 );
+
             // Get a random value
-            int val = rand()%20;
-            // Send a message according to the random value (1 error / 19 ok)
+            int val = rand()%5;
+
+            // prepare a message according to the random value
             if(val == 0){
-                printf("ERROR\n");
+		strcpy(buff,"ERROR\n");
             }
             else{
-                printf("OK\n");
+		strcpy(buff,"OK\n");
             }
+
+            // check if we have to corrupt a character
+	    if( rand()% 5 == 0 ){
+                // get index of character to update
+	        int index = rand()%strlen(buff);
+                // get random letter or number
+                buff[index] = rand()%('z'-'0') + '0';
+	    }
+
+            // wend message to stdout
+            write(1, buff, strlen(buff));
         }
     }
     
