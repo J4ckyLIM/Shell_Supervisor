@@ -17,9 +17,6 @@ int main()
         else if(c == 'E'){
             printf("An error occured\n");
         }
-        else{
-            printf("Nothing happened");
-        }
     }
     //printf(stdin, stdout,"\n");
 }
