@@ -1,2 +1,3 @@
 #!/bin/bash
-./genExec $1
+./genExec 1000 | ./genSensorData 
+
