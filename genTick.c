@@ -5,7 +5,6 @@
 
 // GEN TICK V2
 
-
 int main( int argc, char* argv[] )
 {
     char buff[256];
