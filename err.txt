@@ -1,5 +1,176 @@
+
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4933; errorCode: 98; errorDetails: Batterie vide
 SensorID: 4492; errorCode: 42; errorDetails: Erreur système
 SensorID: 8821; errorCode: 67; errorDetails: Erreur système
 SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
 SensorID: 4933; errorCode: 98; errorDetails: Batterie vide
 SensorID: 6716; errorCode: 37; errorDetails: Branchement raté
+SensorID: 8008; errorCode: 95; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4933; errorCode: 98; errorDetails: Batterie vide
+SensorID: 6716; errorCode: 37; errorDetails: Branchement raté
+SensorID: 8008; errorCode: 95; errorDetails: Branchement raté
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5813; errorCode: 70; errorDetails: Branchement raté
+SensorID: 9094; errorCode: 20; errorDetails: Erreur paramétrage
+SensorID: 7844; errorCode: 90; errorDetails: Capteur non fonctionnel
+SensorID: 5159; errorCode: 23; errorDetails: Erreur système
+SensorID: 7692; errorCode: 15; errorDetails: Batterie vide
+SensorID: 6775; errorCode: 9; errorDetails: Capteur non fonctionnel
+SensorID: 6648; errorCode: 4; errorDetails: Capteur non fonctionnel
+SensorID: 8381; errorCode: 48; errorDetails: Capteur non fonctionnel
+SensorID: 447; errorCode: 7; errorDetails: Branchement raté
+SensorID: 366; errorCode: 0; errorDetails: Erreur paramétrage
+SensorID: 7878; errorCode: 14; errorDetails: Erreur paramétrage
+SensorID: 6197; errorCode: 31; errorDetails: Branchement raté
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
