@@ -1,0 +1,5 @@
+SensorID: 4492; errorCode: 42; errorDetails: Erreur système
+SensorID: 8821; errorCode: 67; errorDetails: Erreur système
+SensorID: 5668; errorCode: 90; errorDetails: Erreur paramétrage
+SensorID: 4933; errorCode: 98; errorDetails: Batterie vide
+SensorID: 6716; errorCode: 37; errorDetails: Branchement raté
