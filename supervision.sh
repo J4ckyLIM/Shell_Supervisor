@@ -3,16 +3,16 @@
 # this script will handle generation.sh (start/stop)
 # Get the size of the file to check if it is too big or not
 errFileSize=bash du -h err.txt | cut -d 'K' -f1
-#logFileSize=bash du -h log.txt | cut -d 'K' -f1
+logFileSize=bash du -h log.txt | cut -d 'K' -f1
 maxSize=2
-echo $USER
+echo "L'utilisateur actuel est "$USER 
 
-# if [[ $errFileSize -eq 12 ]]
+# if [[ $logFileSize -eq 12 ]]
 # then
-    bash generation.sh $1
-    # while [[ $errFileSize -lt $maxSize ]]
+    bash generation.sh $1 $2 $3 $4 $5
+    # while [[ $logFileSize -lt $maxSize ]]
     # do
-    #     #errFileSize=bash du -h err.txt | cut -d 'K' -f1
+    #     #logFileSize=bash du -h log.txt | cut -d 'K' -f1
     #     echo "JDFHJDJGDHFJ"
     # done
 # else
