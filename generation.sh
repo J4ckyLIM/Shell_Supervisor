@@ -11,9 +11,12 @@ then
         # creates a directory in the user's root path if it doesn't exist
         mkdir -p $HOME/$2
     else
-        ./genExec $1 | ./genSensorData 2>> $HOME/$2/$3 | stdbuf -oL cut -d ";" -f1,2,3,6  > $HOME/$2/$4
+        # generation.sh gets back the data from stdout then write in the log files 
+        #./genExec $1 | ./genSensorData 2>> $HOME/$2/$3 | stdbuf -oL cut -d ";" -f1,2,3,6  > $HOME/$2/$4
+        ./genExec $1 | ./genSensorData 2>> $HOME/$2/$3  > $HOME/$2/$4
     fi
-    ./genExec $1 | ./genSensorData 2>> $HOME/$2/$3 | stdbuf -oL cut -d ";" -f1,2,3,6  > $HOME/$2/$4
+    #./genExec $1 | ./genSensorData 2>> $HOME/$2/$3 | stdbuf -oL cut -d ";" -f1,2,3,6  > $HOME/$2/$4
+    ./genExec $1 | ./genSensorData 2>> $HOME/$2/$3 > $HOME/$2/$4
 else
     echo "Vous n'êtes pas le propriétaire du Mac, le processus s'arrête"
 fi
