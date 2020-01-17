@@ -3,8 +3,13 @@
 #include <unistd.h>
 #include <stdlib.h> 
 
+// this variable stores each byte received from reading
 char c;
+
+// Stores the error messages/ log messages to send
 char buffer[120];
+
+// Array of sensor names
 char* sensorName[]= {
     "Détecteur de fumé",
     "Capteur d'humidité",
@@ -12,6 +17,7 @@ char* sensorName[]= {
     "Détecteur d'ouverture de porte"
 };
 
+// Array of error messages
 char* errMsg[] = {
     "Capteur non fonctionnel",
     "Batterie vide",
@@ -24,6 +30,7 @@ int main()
 {
     printf("Welcome ! \n");
 
+    // Starts reading from the canal 0
     while (read(0, &c, 1) == 1)
     {
         fflush(stdout);
@@ -40,5 +47,4 @@ int main()
     }
     //printf(stdin, stdout,"\n");
 }
-
  
