@@ -20,10 +20,10 @@ gcc <name of the file>.c -o <name of the Executable>
 2 commands are available:
 
 Params: 
-_milliseconds(int between 50-5000) 
-_directory name (string)
-_file name (x2)(string)
-_maximum file size (Int)
+* Milliseconds(int between 50-5000) 
+* Directory name (string)
+* File name (x2)(string)
+* Maximum file size (Int)
 
 example: 
 ```
