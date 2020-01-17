@@ -6,11 +6,11 @@ git clone https://github.com/J4ckyLIM/Shell_Supervisor.git
 ```
 ## Use
 
-redirect to your folder containing the project
+Redirect to your folder containing the project
 
-compile all .c files
+Compile all .c files
 
-with this command: 
+With this command: 
 ```
 gcc <name of the file>.c -o <name of the Executable>
 ```
@@ -18,19 +18,27 @@ gcc <name of the file>.c -o <name of the Executable>
 ## Running the project
 
 2 commands are available:
-```
-params: 
+
+Params: 
 _milliseconds(int between 50-5000) 
 _directory name (string)
 _file name (x2)(string)
 _maximum file size (Int)
 
-example: bash supervisor.sh 1000 logFolder err.txt log.txt 200
-
-bash supervisor.sh or
-
+example: 
+```
+bash supervisor.sh 1000 logFolder err.txt log.txt 200
+```
+```
+bash supervisor.sh 
+```
+Or
+```
 ./supervisor.sh
 ```
-
-
 Don'f forget to enter params to run the project correctly
+
+### Notes
+
+The log files are created in a directory in your user's root 
+
